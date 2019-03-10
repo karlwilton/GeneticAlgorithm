@@ -1,0 +1,262 @@
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr11\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr12\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr13b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr14\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr15\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr16c\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr17b preUnlistPair\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\SEMESTER 2018\COMP 7212\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\GA\GeneticAlgorithm_Apr18 b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GeneticAlgorithm_Apr19\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\GA_UGH\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+E:\TESTING\GeneticAlgorithm_Apr19b\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form2.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form2.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr19b - Copy\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 removal of test variables\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+\\EDUNET.NZ\HomeFolders\StuHome\27031385\My Documents\Desktop\TESTING\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 ALMOST THERE\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr20 SO CLOSE NAAAAAA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.TestForm.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.TestForm.resources
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\kwvid\Desktop\GeneticAlgorithm_Apr21 - pm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.DistancesMatrixForm.resources
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Graph.resources
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.TestForm.resources
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\KW\Desktop\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\KARL_VIDAD_COMP_7212_ASSIGNMENT1_PARTA\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
